@@ -1,4 +1,4 @@
-package pack1;
+package Alladi;
 
 import java.util.Scanner;
 
@@ -22,6 +22,8 @@ public class StringExecutor
 		
 		sf.transform();
 		String output=sf.getOutputString();
-		System.out.println(output.strip());		
+		System.out.println(output.strip());
+;		
+		
 	}
 }
